@@ -1,0 +1,26 @@
+h11 {
+    color:red;
+}
+
+#logo {
+        width:50%;
+        height:50%;
+}
+
+.panel-heading{
+    font-size:150%;
+    background: #842EFF;
+    color: white;
+}
+.panel-color{
+    background: #2D2F4E;
+    color: white;
+
+}
+
+@media (max-width: 600px)
+{
+    .form-horizontal .control-label{
+        max-width: 500px;
+    }
+}
